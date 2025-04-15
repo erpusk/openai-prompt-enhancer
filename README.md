@@ -11,7 +11,6 @@ The tool takes an initial prompt and enhances it step-by-step using the OpenAI C
 
 ```bash
 git clone https://github.com/erpusk/openai-prompt-enhancer.git
-cd openai-prompt-enhancer
 ```
 
 ### 2. Install dependencies
